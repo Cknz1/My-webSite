@@ -7,7 +7,7 @@ section {
   padding: 30px 15%;
 }
 
-@media (width <= 600px) {
+@media (width <= 400px) {
   section {
     padding: 30px 10%;
   }
