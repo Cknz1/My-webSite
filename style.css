@@ -9,7 +9,7 @@ section {
 
 @media (width <= 600px) {
   section {
-    padding: 90px 100%;
+    padding: 40px 10%;
   }
 }
 
